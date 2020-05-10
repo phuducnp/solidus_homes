@@ -1,0 +1,5 @@
+bump:
+  recurse: false
+  file: 'lib/solidus_homes/version.rb'
+  message: Bump SolidusHomes to %{version}
+  tag: true
